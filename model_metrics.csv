@@ -1,0 +1,2 @@
+﻿accuracy,precision,recall,f1,auc,threshold,tp,fp,tn,fn,model,target,train_rows,test_rows,positive_rate_train,positive_rate_test,feature_set,depeg_threshold
+0.696113074204947,0.17871759890859482,1.0,0.30324074074074076,0.9845306375077367,0.05047478452575346,131,602,1248,0,logistic_market_plus_regulation_threshold_0.01,next_day_depeg_0_01,6435,1981,0.029681429681429682,0.06612821807168097,market_plus_regulation,0.01
